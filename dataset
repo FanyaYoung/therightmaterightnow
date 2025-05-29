@@ -1,0 +1,60 @@
+Here's a detailed and comprehensive sample dataset aligned with your PRD:
+
+### Sample Dataset for Wealthy Singles Matchmaking Platform
+
+| Attribute                               | Sample Data                                     |
+| --------------------------------------- | ----------------------------------------------- |
+| **User ID**                             | WS-0001                                         |
+| **Age**                                 | 42                                              |
+| **Gender**                              | Male                                            |
+| **Ethnicity**                           | Caucasian                                       |
+| **Income Level**                        | \$500,000 per year                              |
+| **Net Worth**                           | \$5,000,000                                     |
+| **Relationship Intent**                 | Marriage-Focused                                |
+| **Interracial Relationship Preference** | Yes                                             |
+| **Verified Background Check Status**    | Completed                                       |
+| **Interests and Hobbies**               | Sailing, Investing, Travel, Philanthropy        |
+| **Event Attendance History**            | Gala (05/01/2025), Virtual Session (05/12/2025) |
+| **Match History**                       | 5 matches, 3 successful dates, 1 engagement     |
+
+| Attribute                               | Sample Data                                                 |
+| --------------------------------------- | ----------------------------------------------------------- |
+| **User ID**                             | WS-0002                                                     |
+| **Age**                                 | 37                                                          |
+| **Gender**                              | Male                                                        |
+| **Ethnicity**                           | Asian                                                       |
+| **Income Level**                        | \$750,000 per year                                          |
+| **Net Worth**                           | \$10,000,000                                                |
+| **Relationship Intent**                 | Marriage-Focused                                            |
+| **Interracial Relationship Preference** | Yes                                                         |
+| **Verified Background Check Status**    | Completed                                                   |
+| **Interests and Hobbies**               | Golf, Art Collecting, Tech Investing                        |
+| **Event Attendance History**            | Networking Event (04/20/2025), Virtual Session (05/10/2025) |
+| **Match History**                       | 3 matches, 2 successful dates, no engagements               |
+
+| Attribute                               | Sample Data                                     |
+| --------------------------------------- | ----------------------------------------------- |
+| **User ID**                             | WS-0003                                         |
+| **Age**                                 | 45                                              |
+| **Gender**                              | Male                                            |
+| **Ethnicity**                           | African-American                                |
+| **Income Level**                        | \$1,000,000 per year                            |
+| **Net Worth**                           | \$15,000,000                                    |
+| **Relationship Intent**                 | Marriage-Focused                                |
+| **Interracial Relationship Preference** | Yes                                             |
+| **Verified Background Check Status**    | Pending                                         |
+| **Interests and Hobbies**               | Polo, Fine Dining, Traveling, Real Estate       |
+| **Event Attendance History**            | Gala (04/25/2025), Virtual Session (05/15/2025) |
+| **Match History**                       | 2 matches, 1 successful date, ongoing           |
+
+### **Dataset Notes:**
+
+* Each user's identity is protected by anonymized IDs.
+* Financial information is validated and regularly updated.
+* Background checks are required for trust and security.
+* Match history data aids in refining the matching algorithm.
+
+You can save this dataset as a CSV file (`wealthy_singles_dataset.csv`) and upload it directly to your GitHub repository.
+
+Would you like me to provide this data in CSV format ready for download?
+
